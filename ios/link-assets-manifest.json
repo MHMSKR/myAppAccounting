@@ -1,0 +1,81 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BebasNeue-Regular.ttf",
+      "sha1": "8b3aaeb978f3cb5f575860774b50c332338563c1"
+    },
+    {
+      "path": "assets/fonts/Kanit-Black.ttf",
+      "sha1": "456c00646a02c782013b65e42cad402d55892e27"
+    },
+    {
+      "path": "assets/fonts/Kanit-BlackItalic.ttf",
+      "sha1": "da8634145fed221e36ed85cc08cb8d774395b79e"
+    },
+    {
+      "path": "assets/fonts/Kanit-Bold.ttf",
+      "sha1": "c5f5abf24baa99d0da233c09726024327548ec01"
+    },
+    {
+      "path": "assets/fonts/Kanit-BoldItalic.ttf",
+      "sha1": "ce2cb2a4c03cd1c6147e2f77163166c098698b24"
+    },
+    {
+      "path": "assets/fonts/Kanit-ExtraBold.ttf",
+      "sha1": "3682f1320846696a04a3241d2a69e6e79b80a88d"
+    },
+    {
+      "path": "assets/fonts/Kanit-ExtraBoldItalic.ttf",
+      "sha1": "ff2da3c0c24af05bc5567d290c87bbd278a681b4"
+    },
+    {
+      "path": "assets/fonts/Kanit-ExtraLight.ttf",
+      "sha1": "eebed9f93d98af65787ef8f8d6b82af75169c116"
+    },
+    {
+      "path": "assets/fonts/Kanit-ExtraLightItalic.ttf",
+      "sha1": "88a03fa40f64eba904c102e6b0fe941fcbf18a82"
+    },
+    {
+      "path": "assets/fonts/Kanit-Italic.ttf",
+      "sha1": "f5c2b862e4bac4b306859802c57a3805dd563d30"
+    },
+    {
+      "path": "assets/fonts/Kanit-Light.ttf",
+      "sha1": "ae0be36b691f5108ef2a68606808d14bd9b7714e"
+    },
+    {
+      "path": "assets/fonts/Kanit-LightItalic.ttf",
+      "sha1": "1888069de40d0e838aa6ad00e7ae03fdfe610f86"
+    },
+    {
+      "path": "assets/fonts/Kanit-Medium.ttf",
+      "sha1": "ba6fcb1ab1a69cbd815e7a9f3415f85e6150170f"
+    },
+    {
+      "path": "assets/fonts/Kanit-MediumItalic.ttf",
+      "sha1": "7af78a5d8cb77c608f67296a3bb86307335c0454"
+    },
+    {
+      "path": "assets/fonts/Kanit-Regular.ttf",
+      "sha1": "d68c57d7ffeae7a4cf3ca786e7d893dba3f26362"
+    },
+    {
+      "path": "assets/fonts/Kanit-SemiBold.ttf",
+      "sha1": "9b59f2c3cffe24b39a34f549b5910fedc1fe7752"
+    },
+    {
+      "path": "assets/fonts/Kanit-SemiBoldItalic.ttf",
+      "sha1": "14f076a9c9a730d621e7531c0641df1443cf79bf"
+    },
+    {
+      "path": "assets/fonts/Kanit-Thin.ttf",
+      "sha1": "7bfccf6ad19d752f24f4a7dbd22e8109be448977"
+    },
+    {
+      "path": "assets/fonts/Kanit-ThinItalic.ttf",
+      "sha1": "2ee6a3036bd7a22d5d4e9413f4b45864ac691b29"
+    }
+  ]
+}
